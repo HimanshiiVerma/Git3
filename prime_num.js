@@ -1,3 +1,4 @@
+
 let n=5;
 let factor=0;
 for(let i=1;i<=n;i++)
@@ -13,4 +14,5 @@ console.log("prime number");
 }
 else{
 console.log("not a prime number");
+
 }
